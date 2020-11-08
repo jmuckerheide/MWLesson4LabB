@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayoutTutorial.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label" x:Key="labelStyle">
+                <Setter Property="BackgroundColor" Value="LawnGreen"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="2" CornerRadius="0">
+            <Label Text="Rate Packers" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="What Did you think of the packer game?" FontSize="Title" Padding="30,0,30,0" Style="{StaticResource labelStyle}"/>
+        <Entry Text="Enter Title" MaxLength="20" IsTextPredictionEnabled="True" x:Name="userTitle"/>
+        <Editor Text="Description" MaxLength="200" IsTextPredictionEnabled="True" AutoSize="TextChanges" x:Name="userDescription"/>
+        <Button Text="Enter" Clicked="User_review" BackgroundColor="LawnGreen" BorderColor="Yellow" BorderWidth="5"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="User Post" FontSize="Title" TextDecorations="Underline"></Span>
+                        <Span x:Name="userPost" FontSize="Large"></Span>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>

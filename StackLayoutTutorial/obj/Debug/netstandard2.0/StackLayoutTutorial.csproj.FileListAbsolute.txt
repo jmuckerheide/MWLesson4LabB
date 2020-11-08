@@ -1,0 +1,14 @@
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\StackLayoutTutorial.deps.json
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\StackLayoutTutorial.dll
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\ref\StackLayoutTutorial.dll
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\StackLayoutTutorial.pdb
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.csprojAssemblyReference.cache
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.AssemblyInfoInputs.cache
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.AssemblyInfo.cs
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.dll
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\ref\StackLayoutTutorial.dll
+C:\Users\Crispian\source\repos\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.pdb
